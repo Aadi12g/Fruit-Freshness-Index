@@ -52,4 +52,4 @@ After every model evaluation, the following metrics are calculated and saved in 
 | **F1 Score** | Harmonic mean of precision and recall |
 | **R1 Score** | Reliability index (custom metric for robustness) |
 
-Example output:
+
